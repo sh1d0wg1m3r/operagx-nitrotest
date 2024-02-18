@@ -1,4 +1,4 @@
-# OperaGX Nitro Generator
+# OperaGX Nitro Generator ( this fork is for testing )
 
 This simple Python script uses the Discord X OperaGX promotion API to fetch a one-month nitro token. ( with rotating useragents)
 
